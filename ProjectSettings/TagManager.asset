@@ -9,6 +9,7 @@ TagManager:
   - DeathZone
   - Enemy
   - PassableGround
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -20,7 +21,7 @@ TagManager:
   - Enemy
   - Traps
   - Background
-  - 
+  - Ground
   - 
   - 
   - 
@@ -60,4 +61,7 @@ TagManager:
     locked: 0
   - name: Traps
     uniqueID: 2046447711
+    locked: 0
+  - name: Ladders
+    uniqueID: 822152055
     locked: 0
