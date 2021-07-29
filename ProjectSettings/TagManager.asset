@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - spikes
+  - DeathZone
+  - Enemy
+  - PassableGround
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemy
+  - Traps
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 790049503
+    locked: 0
+  - name: Ground
+    uniqueID: 4194082397
+    locked: 0
+  - name: Player
+    uniqueID: 1314119287
+    locked: 0
+  - name: Enemies
+    uniqueID: 1569342223
+    locked: 0
+  - name: Traps
+    uniqueID: 2046447711
+    locked: 0
